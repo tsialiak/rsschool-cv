@@ -15,6 +15,8 @@ I’d describe myself as a goal-oriented and hardworking person with good organi
 - HTML
 - CSS
 - JavaScript
+- Java (Spring Boot, Hibernate)
+- SQL (Oracle, MS SQL, PostgreSQL)
 
 ### Examples of code:
 
